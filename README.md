@@ -11,3 +11,9 @@ O dataset diz a respeito de animes onde tem a seguintes colunas:
 - episodes - Quantos episódios tem o anime (considerado 1 episódio para filmes).
 - rating - Nota do anime sendo o máximo 10.
 - members - Número de membros do anime.
+
+## Para vizulizar a análise:
+- Animes e notas.ipynb   - Código e texto da análise
+- anime.csv - Dataset
+
+Se você deseja rodar o código deve ter instalado o jupyter notebook, caso contrario faça download dos arquivos e use o google colab
